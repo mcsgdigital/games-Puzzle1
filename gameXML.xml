@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gameXML>
+	<prizes>
+		<message>You have won a prize!</message>
+		<message>'You are already under my spell...'</message>
+	</prizes>
+</gameXML>
